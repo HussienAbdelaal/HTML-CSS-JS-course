@@ -47,6 +47,7 @@ p {
   width: 20%;
   left: 80%;
   padding: 5px;
+  text-align: center;
 }
 
 
@@ -54,7 +55,7 @@ p {
 @media (min-width: 992px) {
   .col-lg-4 {
     float: left;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   .col-lg-4 {
     width: 30%;
@@ -64,21 +65,20 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
   .col-md-6, .col-md-12 {
     float: left;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   .col-md-6 {
     width: 46%;
   }
   .col-md-12 {
-    width: 97%;
+    width: 95%;
   }
 }
 
 /********** Mobile view **********/
 @media (max-width: 767px) {
   .col-sm-12 {
-    float: left;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
   }
   .col-sm-12 {
     width: 97%;
