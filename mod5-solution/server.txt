@@ -1,0 +1,6 @@
+{
+    "firstName"  : "Salah",
+    "secondName" : "3adma",
+    "age"         : "15"   ,
+    "school"      : "embaba"
+}
